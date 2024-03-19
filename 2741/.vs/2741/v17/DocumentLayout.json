@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC804\uC9C4\uC6A9\\Desktop\\BOJ\\2741\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2160651-1F40-4179-A52A-FF1B5F8BC956}|2741\\2741.vcxproj|C:\\Users\\\uC804\uC9C4\uC6A9\\Desktop\\BOJ\\2741\\2741\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2160651-1F40-4179-A52A-FF1B5F8BC956}|2741\\2741.vcxproj|solutionrelative:2741\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC804\uC9C4\uC6A9\\Desktop\\BOJ\\2741\\2741\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "2741\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\\uC804\uC9C4\uC6A9\\Desktop\\BOJ\\2741\\2741\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "2741\\\uC18C\uC2A4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T04:51:53.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
